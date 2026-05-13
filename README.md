@@ -24,17 +24,51 @@ Focused on maintainable architectures, Dockerized environments, automation workf
 
 ### Backend & Infrastructure
 
-`PHP` `CodeIgniter` `MySQL` `MS SQL Server` `Nginx` `Linux`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MS%20SQL%20Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### Frontend & Web
 
-`JavaScript` `HTML5` `CSS3` `Bootstrap`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### DevOps & Tools
 
-`Docker` `Git` `REST APIs` `cURL` `Shell Script`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![REST%20APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=rest-api&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-073551?style=flat&logo=curl&logoColor=white)
+![Shell%20Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 </div>
+
+---
+
+## Featured Projects
+
+### 🚀 Meta Business Suite Integration
+**Enterprise-level integration** with Meta's messaging platforms for automated communication workflows.
+- **Tech:** PHP, REST APIs, OAuth2, Webhooks
+- **Challenge:** High-availability message processing with real-time synchronization
+- **Solution:** Queue-based architecture with retry mechanisms and monitoring
+
+### 📱 Infobip RCS Platform
+**High-throughput messaging system** using Rich Communication Services for enterprise clients.
+- **Tech:** PHP, cURL, Shell Script, MongoDB
+- **Challenge:** Processing 10K+ messages/minute with 99.9% uptime
+- **Solution:** Load-balanced infrastructure with automated failover and monitoring
+
+### 🏢 Enterprise Call Center Solution
+**Multi-tenant telephony platform** serving 50+ enterprise clients with 24/7 availability.
+- **Tech:** PHP, MySQL, Linux, Nginx, Docker
+- **Challenge:** Scalable architecture supporting concurrent users and real-time reporting
+- **Solution:** Microservices architecture with containerized deployment and monitoring
 
 ---
 
@@ -98,10 +132,6 @@ class DevelopmentApproach {
 ## GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geehzin\&theme=dark\&show_icons=true\&hide_border=true\&count_private=true\&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geehzin\&theme=dark\&show_icons=true\&hide_border=true\&layout=compact)
 
 </div>
 
