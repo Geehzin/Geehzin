@@ -1,124 +1,133 @@
 <div align="center">
 
 # Gilles W. Januario
-## PHP Developer | Docker & Automation Specialist
 
-*Focused on scalable web systems, Dockerized applications and automation.*
+## Full Stack PHP Developer | Web Systems & Infrastructure
+
+*Focused on scalable web applications, backend architecture, infrastructure, and automation.*
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-Backend developer with expertise in PHP and modern web architecture. I build scalable systems, APIs, and automation solutions with focus on performance, maintainability, and clean code principles.
+Backend and Full Stack developer with 7+ years of experience building scalable web applications, REST APIs, and enterprise systems using PHP, CodeIgniter, MySQL, and MS SQL Server.
 
-**Core Philosophy:**
-- Modular architecture and reusable components
-- Docker-first development approach
-- Performance optimization and automation
-- Clean, maintainable codebases
+Focused on maintainable architectures, Dockerized environments, automation workflows, and high-performance applications. Experienced in designing reusable systems, database structures, integrations, and production-ready web platforms.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Backend & Core
-`PHP` `CodeIgniter` `MySQL` `Nginx`
+### Backend & Infrastructure
+
+`PHP` `CodeIgniter` `MySQL` `MS SQL Server` `Nginx` `Linux`
 
 ### Frontend & Web
-`JavaScript` `HTML5` `CSS3`
+
+`JavaScript` `HTML5` `CSS3` `Bootstrap`
 
 ### DevOps & Tools
-`Docker` `Git` `APIs`
+
+`Docker` `Git` `REST APIs` `cURL` `Shell Script`
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Engineering Focus
 
-### 📋 Project Template
-**Modular PHP framework** with Docker integration and automated testing pipeline.
-- **Tech:** PHP, Docker, CodeIgniter
-- **Focus:** Reusable architecture and rapid development
+### Enterprise Web Systems
 
-### 🔄 Omnichannel System
-**Multi-platform communication hub** integrating various messaging channels.
-- **Tech:** PHP, APIs, JavaScript
-- **Focus:** Real-time communication and scalability
+Development of scalable PHP applications with modular architecture, authentication systems, reusable components, and maintainable codebases.
 
-### 🔌 API Gateway
-**RESTful API management system** with authentication and rate limiting.
-- **Tech:** PHP, MySQL, Nginx
-- **Focus:** Security, performance, and monitoring
+### API Integrations & Automation
 
-### 📄 Landing Page Builder
-**Dynamic landing page generator** with A/B testing capabilities.
-- **Tech:** PHP, JavaScript, HTML5/CSS3
-- **Focus:** Conversion optimization and performance
+Creation of REST integrations, automation workflows, background processing routines, and communication systems.
+
+### Database Architecture
+
+Relational database modeling, optimization, replication, maintenance, and monitoring using MySQL and MS SQL Server.
+
+### Infrastructure & Deployment
+
+Dockerized environments, Linux server management, Nginx configuration, deployment workflows, and production optimization.
 
 ---
 
-## ⚡ Workflow & Architecture
+## Workflow & Architecture
 
 ```php
-// My development philosophy
 class DevelopmentApproach {
-    private $principles = [
+
+    private array $principles = [
         'modular_architecture',
         'docker_first',
         'automation_driven',
-        'clean_code',
+        'maintainable_code',
         'performance_focus'
     ];
-    
-    public function build($project) {
+
+    public function build($project)
+    {
         return $project
             ->withDocker()
-            ->withTests()
-            ->withDocumentation()
+            ->optimized()
+            ->maintainable()
             ->deployable();
     }
 }
 ```
 
-**Key Practices:**
-- Containerized development environments
-- Automated testing and deployment
-- Code quality standards and reviews
-- Performance monitoring and optimization
-- Security-first approach
+### Core Practices
+
+* Containerized development environments
+* Modular and reusable architecture
+* Performance optimization
+* API-first integrations
+* Production-ready deployments
+* Database optimization and monitoring
+* Automation and background processing
+* Maintainable long-term codebases
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geehzin&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geehzin&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geehzin\&theme=dark\&show_icons=true\&hide_border=true\&count_private=true\&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geehzin\&theme=dark\&show_icons=true\&hide_border=true\&layout=compact)
 
 </div>
 
 ---
 
-## 📧 Get in Touch
+## Contact
 
 <div align="center">
 
-**[📧 Email](mailto:contact@gillesjanuario.dev)**
-**[💼 LinkedIn](https://linkedin.com/in/gillesjanuario)**
-**[🐙 GitHub](https://github.com/Geehzin)**
+📧 **Email**
+[gillesjanuario@gmail.com](mailto:gillesjanuario@gmail.com)
 
-*Let's build something amazing together.*
+💼 **LinkedIn**
+https://www.linkedin.com/in/gilles-januário-86914990/
+
+🐙 **GitHub**
+https://github.com/Geehzin
 
 </div>
 
 ---
 
 <div align="center">
-<small>© 2024 Gilles W. Januario | Crafting scalable web solutions</small>
+
+<small>
+Building scalable and maintainable web systems.
+</small>
+
 </div>
